@@ -1,4 +1,4 @@
-package io.github.renatonobrega.auth_api.domain;
+package io.github.renatonobrega.auth_api.domain.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
